@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "istockphoto-1313170273-170667a.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}

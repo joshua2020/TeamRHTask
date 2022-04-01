@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "75626325-savannah.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}
